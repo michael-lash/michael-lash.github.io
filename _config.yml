@@ -86,9 +86,9 @@ author:
   location         : "Lawrence, KS"
   employer         : "KU School of Business" #"University of Kansas School of Business" #"[University of Kansas School of Business](business.ku.edu/people/michael-lash)"
   pubmed           : 
-  googlescholar    : "scholar.google.com/citations?user=1GN6YIYAAAAJ&hl=en"
+  googlescholar    : "https://www.scholar.google.com/citations?user=1GN6YIYAAAAJ&hl=en"
   email            : 
-  researchgate     : "researchgate.net/profile/Michael-Lash" # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Michael-Lash" # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
