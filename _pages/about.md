@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -12,4 +12,4 @@ I am an assistant professor in the [Analytics, Information, and Operations Manag
 
 My work has appeared in a variety of peer-reviewed journals including the Journal of Management Information Systems (JMIS), Journal of Business Research (JBR), and Expert Systems with Applications (ESWA), among others. My work has also appeared in numerous rigorously peer-reviewed conferences including the SIAM International Conference on Data Mining (SDM), the IEEE International Conference on Health Informatics (ICHI), and the IEEE International Conference on Bioinformatics and Biomedicine (BIBM), among others.
 
-My research interests are broadly in the areas of data mining, machine learning, and business analytics.
+My research interests are broadly in the areas of data mining, machine learning, and business analytics, and emphasize a decision-making perspective. To be more specific, I've worked on the inverse classification problem (methods that transform prediction-making machine learning models into prescription-providing models that optimize for a preferred outcome), machine learning explainability (MLX; methods that explain *why* a machine learning model made the prediction that it did), predicting and analyzing movie success from a pre-production disposition (the movie "green lighting" process), predicting and analyzing consumer mobility during a major socio-economoic disruption (COVID-19; to aid in business decision-making and planning), the third-party logistics-provider freight management problem using deep reinforcement learning, among others. Thus, my work ranges from methodological machine learning innovations to applied, analytics-focused works, and others that fall in between the two.
