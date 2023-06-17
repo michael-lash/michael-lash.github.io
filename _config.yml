@@ -84,7 +84,7 @@ author:
   avatar           : "profile.png"
   bio              : "Assistant Professor of Business Analytics - University of Kansas School of Business, Technology Consultant"
   location         : "Lawrence, KS"
-  employer         : "[University of Kansas School of Business](business.ku.edu/people/michael-lash)"
+  employer         : [University of Kansas School of Business](business.ku.edu/people/michael-lash) #"[University of Kansas School of Business](business.ku.edu/people/michael-lash)"
   pubmed           : 
   googlescholar    : "scholar.google.com/citations?user=1GN6YIYAAAAJ&hl=en"
   email            : 
