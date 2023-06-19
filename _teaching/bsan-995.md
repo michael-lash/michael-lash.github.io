@@ -4,6 +4,7 @@ collection: teaching
 type: "Graduate Course (PhD)"
 permalink: /teaching/bsan-995
 venue: "University of Kansas School of Business"
+date: 2023-05-12
 location: "Lawrence, KS, USA"
 ---
 
