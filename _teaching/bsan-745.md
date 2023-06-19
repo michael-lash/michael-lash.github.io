@@ -4,7 +4,6 @@ collection: teaching
 type: "Graduate Course"
 permalink: /teaching/bsan-745
 venue: "University of Kansas School of Business"
-date: 2023-05-12
 location: "Lawrence, KS, USA"
 ---
 
