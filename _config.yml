@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Michael T. Lash"
   avatar           : "profile.png"
-  bio              : "&diams; Assistant Professor at the University of Kansas School of Business &diams; Technology Consultant"
+  bio              : "&diams; Assistant Professor at the <a href='https://business.ku.edu/people/michael-lash'>University of Kansas School of Busines</a> &diams; Technology, Operations, and AI Consultant"
   location         : "Lawrence, KS"
-  employer         : "KU School of Business" #"University of Kansas School of Business" #"[University of Kansas School of Business](business.ku.edu/people/michael-lash)"
+  employer         : #"KU School of Business" #"University of Kansas School of Business" #"[University of Kansas School of Business](business.ku.edu/people/michael-lash)"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=1GN6YIYAAAAJ&hl=en"
   email            : 
