@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate Course"
 permalink: /teaching/bsan-ist-326
 venue: "University of Kansas School of Business"
-date: ~
+date: null
 location: "Lawrence, KS, USA"
 ---
 
