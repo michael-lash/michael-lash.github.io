@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate Course"
 permalink: /teaching/bsan-ist-326
 venue: "University of Kansas School of Business"
-date: 2023-05-12
+semesters: "Spring 2020 - Spring 2023"
 location: "Lawrence, KS, USA"
 ---
 
