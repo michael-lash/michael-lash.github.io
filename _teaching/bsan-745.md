@@ -8,5 +8,4 @@ semesters: "Spring 2021 - Spring 2023"
 location: "Lawrence, KS, USA"
 ---
 
-Years taught: Spring 2021 - Spring 2023
 
