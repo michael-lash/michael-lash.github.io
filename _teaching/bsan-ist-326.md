@@ -3,8 +3,8 @@ title: "BSAN/IST 326: Database Management Systems"
 collection: teaching
 type: "Undergraduate Course"
 permalink: /teaching/bsan-ist-326
-venue: "University 1, Department"
-location: "University of Kansas, Lawrence, KS, USA"
+venue: "University of Kansas School of Business"
+location: "Lawrence, KS, USA"
 ---
 
 Years taught: Spring 2020 - Spring 2023
