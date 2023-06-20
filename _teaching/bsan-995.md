@@ -12,8 +12,8 @@ This seminar introduces graduate students to the vast, exciting, and ever-growin
 
 ***Students from all areas welcome!***
 
-*Please find a copy of the syllabus with the general schedule (schedule at the back) [here](http://michae-lash.github.io/files/BSAN995_Machine_Learning_Syllabus_Lash_general.pdf)
+*Please find a copy of the syllabus with the general schedule (schedule at the back) [here](https://michael-lash.github.io/files/BSAN995_Machine_Learning_Syllabus_Lash_general.pdf)
 
-*Please find a copy of the syllabus with a specific schedule from a recent offering [here](http://michae-lash.github.io/files/BSAN995_Machine_Learning_Syllabus_Lash_Spr23.pdf)
+*Please find a copy of the syllabus with a specific schedule from a recent offering [here](https://michael-lash.github.io/files/BSAN995_Machine_Learning_Syllabus_Lash_Spr23.pdf)
 
 
