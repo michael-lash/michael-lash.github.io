@@ -20,6 +20,9 @@ Education
 
 Work experience
 ======
+* Aug 2025 - Present: Assistant Professor of Instruction
+  * Business Analytics Department, University of Iowa Tippie College of Business
+    
 * Aug 2019 - Present: Assistant Professor
   * Analytics, Information, and Operations Management Area, University of Kansas School of Business
 
