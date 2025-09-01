@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Michael T. Lash"
-  avatar           : "profile.png"
+  avatar           : "profile.jpg" #"profile.png"
   bio              : "&diams; Assistant Professor of Instruction at the <a href='https://tippie.uiowa.edu/people/michael-lash'>University of Iowa Tippie College of Business/a> &diams; Technology, Operations, and AI Consultant"
   location         : "Iowa City, IA"
   employer         : #"KU School of Business" #"University of Kansas School of Business" #"[University of Kansas School of Business](business.ku.edu/people/michael-lash)"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "michael-lash-6855aa66"
+  linkedin         : "michael-t-lash"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
